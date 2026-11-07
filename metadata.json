@@ -1,0 +1,6 @@
+{
+  "name": "BIGOGWE",
+  "description": "Discover Bigogwe – Where Culture, Cattle and Nature Meet. Official cultural heritage, Ankole cattle traditions, milk culture, and tourism portal for Bigogwe, Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
